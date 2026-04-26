@@ -32,6 +32,7 @@ This skill is derived from two curated reference repositories:
   - [GOV.UK](./references/profiles/govuk.md) — GDS Transport, `#FFDD00` focus, 0px radius
   - [USWDS](./references/profiles/uswds.md) — Merriweather + Source Sans Pro, `#005EA2`, Section 508
   - [shadcn/ui](./references/profiles/shadcn-ui.md) — CSS vars, zinc palette, Radix, dark-first
+  - [BuildDistributedSystem Networker](./references/profiles/builddistributedsystem-networker.md) — `#00D4FF` teal, dark surfaces, JetBrains Mono, topology node aesthetics
 - Compact signals for all 130+ systems → [design-systems-catalogue.md](./references/design-systems-catalogue.md)
 
 ## Procedure
