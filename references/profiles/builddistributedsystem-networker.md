@@ -1,6 +1,6 @@
-# BuildDistributedSystem — Networker Track
+# BuildDistributedSystems
 
-**URL**: https://builddistributedsystem.com/tracks/networker
+**URL**: https://builddistributedsystem.com
 **Archetype**: `neo-brutalist` / `high-contrast-light`
 
 ---
@@ -187,9 +187,9 @@ The system uses **offset drop shadows** rather than blurred shadows or backgroun
 - Use heavy font weight (700–900) as the primary hierarchy signal.
 - Use color badges (yellow, blue) to classify content — always pair with a text label.
 - Maintain the cream/off-white warm background as the consistent base layer.
+- Dark mode should completely invert the color palette.
 
 **Don't**
-- Do not use dark mode — this system is light-only; no dark theme.
 - Do not round corners — all elements are square-cornered (0px radius).
 - Do not use blurred box shadows — offset hard shadows only.
 - Do not use gradient fills on any element.
@@ -225,7 +225,6 @@ The system uses **offset drop shadows** rather than blurred shadows or backgroun
 > Build a page using the BuildDistributedSystem Networker visual style. Warm cream background `#F2EFE8`, card surfaces `#F7F5F0`, nav white `#FFFFFF`. All borders `2px solid #111111`. All cards and buttons use an offset hard drop shadow `3px 3px 0 #111111` — no blur. No border-radius anywhere. Primary font: bold grotesque (Space Grotesk or IBM Plex Sans), headings 700–900 weight ALL-CAPS. Body 16px/400 sentence-case. Yellow `#F5C518` for level/difficulty badges; blue `#4A7CC7` for category badges; light blue-gray `#B8C8E0` for keyword/concept chips. Primary button: black `#111111` bg, white text. Sidebar uses `#EBEEf4`. Section headings have a `4px solid #111111` left border accent. 12-column grid, 1280px max-width, 8px spacing base. Focus ring: `3px solid #111111, offset 2px`. Light mode only. No blurred shadows. No gradients. No rounded corners.
 
 **Negative prompt (what to avoid):**
-- No dark mode or dark-colored backgrounds
 - No blurred / soft box shadows — offset hard shadows only
 - No rounded corners (no border-radius)
 - No gradient fills on any element
